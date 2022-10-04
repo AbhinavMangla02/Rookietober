@@ -1,6 +1,6 @@
 ![banner](https://hacktoberfest.digitalocean.com/_nuxt/img/logo-hacktoberfest-full.f42e3b1.svg)
 
-## 🌱 Contributing to hactober fest 2021
+## 🌱 Contributing to hactober fest 2022
 
 ### Welcome to rookietober Public Repository. 👨🏻‍💻
 <p>A month-long celebration from October 1st - 31st sponsored by Digital Ocean and GitHub to get people involved in Open Source. Create your very first pull request to any public repository on GitHub and contribute to the open source developer community.
