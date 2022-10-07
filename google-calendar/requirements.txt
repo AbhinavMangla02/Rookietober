@@ -1,0 +1,4 @@
+python 3.9
+django 3
+google-apis-oauth-djang0
+google-api-python-client
